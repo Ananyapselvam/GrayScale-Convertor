@@ -1,4 +1,5 @@
 🖼️ Image to Grayscale Converter (Computer Vision Project)
+
 📌 Project Description
 
 This project is a basic Computer Vision application that converts a color image into a grayscale image using OpenCV in Python.
